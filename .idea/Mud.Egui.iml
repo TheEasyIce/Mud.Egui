@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="EMPTY_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/crates/mud_egui/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/crates/mud_egui_bootstrap/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/crates/mud_egui_components/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/crates/mud_egui_core/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/crates/mud_egui_icons_fluent/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/crates/mud_egui_icons_font_awesome/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/crates/mud_egui_icons_material/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/crates/mud_egui_icons_simple_icons/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/crates/mud_egui_navigation/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/crates/mud_egui_tailwind/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/crates/mud_egui_theming/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/samples/mud_egui_studio/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/tools/icon-generator/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

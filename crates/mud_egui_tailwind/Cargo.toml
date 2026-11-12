@@ -1,0 +1,8 @@
+[package]
+name = "mud_egui_tailwind"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+egui = "0.37.0"
+mud_egui_core = { path = "../mud_egui_core" }

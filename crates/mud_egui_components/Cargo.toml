@@ -1,0 +1,21 @@
+[package]
+name = "mud_egui_components"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+egui = "0.37.0"
+lyon_extra = "1.0"
+lyon_path = "1.0"
+lyon_tessellation = "1.0"
+mud_egui_core = { path = "../mud_egui_core" }
+mud_egui_icons_fluent = { path = "../mud_egui_icons_fluent" }
+mud_egui_bootstrap = { path = "../mud_egui_bootstrap" }
+mud_egui_tailwind = { path = "../mud_egui_tailwind" }
+mud_egui_icons_font_awesome = { path = "../mud_egui_icons_font_awesome" }
+mud_egui_icons_material = { path = "../mud_egui_icons_material" }
+mud_egui_icons_simple_icons = { path = "../mud_egui_icons_simple_icons" }
+mud_egui_navigation = { path = "../mud_egui_navigation" }
+mud_egui_theming = { path = "../mud_egui_theming" }
+rfd = "0.18.0"
+epaint = "0.37.0"

@@ -1,0 +1,6 @@
+[package]
+name = "mud_egui_icons_material"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]

@@ -1,0 +1,24 @@
+[package]
+name = "mud_egui_studio"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+# Core UI
+egui = "0.37.0"
+eframe = "0.37.0"
+
+# MudEgui framework crates
+mud_egui_core = { path = "../../crates/mud_egui_core" }
+mud_egui_bootstrap = { path = "../../crates/mud_egui_bootstrap" }
+mud_egui_components = { path = "../../crates/mud_egui_components" }
+mud_egui_navigation = { path = "../../crates/mud_egui_navigation" }
+mud_egui_tailwind = { path = "../../crates/mud_egui_tailwind" }
+mud_egui_theming = { path = "../../crates/mud_egui_theming" }
+
+# Icon packs
+mud_egui_icons_material = { path = "../../crates/mud_egui_icons_material" }
+mud_egui_icons_font_awesome = { path = "../../crates/mud_egui_icons_font_awesome" }
+mud_egui_icons_fluent = { path = "../../crates/mud_egui_icons_fluent" }
+mud_egui_icons_simple_icons = { path = "../../crates/mud_egui_icons_simple_icons" }
+egui_extras = { version = "0.37.0", features = ["all_loaders"] }
